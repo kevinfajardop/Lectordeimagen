@@ -1,0 +1,3 @@
+Hola mundo
+Esto es una prueba OCR
+Java funciona correctamente
